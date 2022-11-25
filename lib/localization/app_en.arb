@@ -1,0 +1,122 @@
+{
+  "appTitle": "Giftak جيفتاك",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Settings view title"
+  },
+  "settingsTheme": "Theme",
+  "@settingsTheme": {
+    "description": "Settings theme label"
+  },
+  "settingsThemeSystem": "Follow System",
+  "@settingsThemeSystem": {
+    "description": "Settings theme label"
+  },
+  "settingsThemeLight": "Light Theme",
+  "@settingsThemeLight": {
+    "description": "Settings theme label"
+  },
+  "settingsThemeDark": "Dark Theme",
+  "@settingsThemeDark": {
+    "description": "Settings theme label"
+  },
+  "settingsLanguage": "Language",
+  "@settingsLanguage": {
+    "description": "Settings language label"
+  },
+  "settingsLanguageArabic": "Arabic",
+  "@settingsLanguageArabic": {
+    "description": "Settings language Arabic label"
+  },
+  "settingsLanguageEnglish": "English",
+  "@settingsLanguageEnglish": {
+    "description": "Settings language English label"
+  },
+  "drawerHomePage": "Home",
+  "@drawerHomePage": {
+    "description": "Drawer home page label"
+  },
+  "drawerSettings": "Settings",
+  "@drawerSettings": {
+    "description": "Drawer settings page label"
+  },
+  "drawerAboutUs": "About Us",
+  "@drawerAbout": {
+    "description": "Drawer about page label"
+  },
+  "drawerLogout": "Logout",
+  "@drawerLogout": {
+    "description": "Drawer logout page label"
+  },
+  "drawerMyOrders": "My Orders",
+  "@drawerMyOrders": {
+    "description": "Drawer my orders page label"
+  },
+  "drawerShowMyProfile": "Show My Profile",
+  "@drawerShowMyProfile": {
+    "description": "Drawer show my profile page label"
+  },
+  "drawerChats": "Chats",
+  "@drawerChats": {
+    "description": "Drawer chats page label"
+  },
+  "drawerSupport": "Support",
+  "@drawerSupport": {
+    "description": "Drawer support page label"
+  },
+  "drawerTermsAndConditions": "Terms and Conditions",
+  "@drawerTermsAndConditions": {
+    "description": "Drawer terms and conditions page label"
+  },
+  "drawerPrivacyPolicy": "Privacy Policy",
+  "@drawerPrivacyPolicy": {
+    "description": "Drawer privacy policy page label"
+  },
+  "drawerContactUs": "Contact Us",
+  "@drawerContactUs": {
+    "description": "Drawer contact us page label"
+  },
+  "drawerLogoutConfirmation": "Are you sure you want to logout?",
+  "@drawerLogoutConfirmation": {
+    "description": "Drawer logout confirmation page label"
+  },
+  "drawerLogoutConfirmationYes": "Yes",
+  "@drawerLogoutConfirmationYes": {
+    "description": "Drawer logout confirmation yes page label"
+  },
+  "drawerLogoutConfirmationNo": "No",
+  "@drawerLogoutConfirmationNo": {
+    "description": "Drawer logout confirmation no page label"
+  },
+  "homeWelcome": "Welcome",
+  "@homeWelcome": {
+    "description": "Home welcome label"
+  },
+  "homeSearch": "Search here...",
+  "@homeSearch": {
+    "description": "Home search label"
+  },
+  "errorTryAgain": "Please try again",
+  "@errorTryAgain": {
+    "description": "Error message subtitle"
+  },
+  "errorOK": "OK",
+  "@errorOK": {
+    "description": "Error message subtitle"
+  },
+  "errorSocketException": "An error occurred while connecting to te server",
+  "@errorSocketException": {
+    "description": "Error message title socket exception"
+  },
+  "errorTimeoutException": "Connection Timed out",
+  "@errorTimeoutException": {
+    "description": "Error message title timeout exception"
+  }
+}
