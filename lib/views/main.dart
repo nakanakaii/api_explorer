@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:api_explorer/controllers/settings_controller.dart';
 import 'package:api_explorer/views/settings_view.dart';
 import 'package:api_explorer/widgets/window_button.dart';
@@ -29,8 +31,8 @@ class _MainViewState extends State<MainView> {
             child: WindowTitleBarBox(
               child: Row(
                 children: [
-                  const SizedBox(
-                    width: 5,
+                  SizedBox(
+                    width: Platform.isMacOS ? 80 : 5,
                   ),
                   const Padding(
                     padding: EdgeInsets.all(2.0),
